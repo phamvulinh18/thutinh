@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent ="Chúc ebeee valentine vui vẻ. Đây là ngày lễ tình nhân đầu tiên của chúng ta bên nhau, tôi rất biết ơn khi có bạn bên cạnh. Đây là nhiều năm nữa của tình yêu, hạnh phúc và tạo ra nhiều khoảnh khắc khó quên bên nhau! Tôi yêu bạn nhiều hơn lời nói có thể diễn tả. Yêu bạn💕"
+var letterContent111 ="Chúc ebeee valentine vui vẻ. Đây là ngày lễ tình nhân đầu tiên của chúng ta bên nhau, tôi rất biết ơn khi có bạn bên cạnh. Đây là nhiều năm nữa của tình yêu, hạnh phúc và tạo ra nhiều khoảnh khắc khó quên bên nhau! Tôi yêu bạn nhiều hơn lời nói có thể diễn tả. Yêu bạn💕"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
