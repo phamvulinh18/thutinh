@@ -8,9 +8,9 @@ durationWrite = 50
 
 function effectWrite () {
     var boxLetter = document.querySelector(".letterContent")
-    letterContentSplited = letterContent.split("")
+    letterContent111Splited = letterContent.split("")
     
-    letterContentSplited.forEach((val, index) => {
+    letterContent111Splited.forEach((val, index) => {
         setTimeout(() => {
             boxLetter.innerHTML += val    
         }, durationWrite* index)
@@ -38,7 +38,7 @@ cardValentine.addEventListener("click", () => {
         setTimeout(effectWrite, 500)
     } else {
         setTimeout(() => {
-            document.querySelector(".letterContent").innerHTML = ""
+            document.querySelector(".letterContent111").innerHTML = ""
         }, 1000)
     }
 })
